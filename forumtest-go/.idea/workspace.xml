@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59d18fc7-9d50-4d64-a3c9-a3e79eaec8dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:/software/go" />
+  <component name="ProjectId" id="1jEdpJa82zwZZK5wsA12VdqLK6D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="TODO_SCOPE" value="Module 'forumtest-go'" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="copyright.filetypes.Go" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build test/forumtest-api">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="forumtest-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="test/forumtest-api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test/forumtest-api" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="forumtest-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <useCustomBuildTags value="true" />
+      <sudo value="true" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="test/forumtest-api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build userController.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="forumtest-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/controller/userController.go" />
+      <package value="test/forumtest-api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="forumtest-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="test/forumtest-api" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build test/forumtest-api" />
+      <item itemvalue="Go Build.go build userController.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build userController.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="276" key="#GOROOT" timestamp="1603374289458">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="433" y="276" key="#GOROOT/0.0.1280.680@0.0.1280.680" timestamp="1603374289458" />
+    <state x="59" y="0" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604155487476">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state x="59" y="0" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1217.720@0.0.1217.720" timestamp="1604155487476" />
+    <state x="502" y="215" key="EnvironmentVariablesDialog" timestamp="1604154656651">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state x="502" y="215" key="EnvironmentVariablesDialog/0.0.1217.720@0.0.1217.720" timestamp="1604154656651" />
+    <state x="528" y="203" key="EnvironmentVariablesDialog/0.0.1280.680@0.0.1280.680" timestamp="1603374760393" />
+    <state x="400" y="104" key="FileChooserDialogImpl" timestamp="1604154637972">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state x="400" y="104" key="FileChooserDialogImpl/0.0.1217.720@0.0.1217.720" timestamp="1604154637972" />
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603374671572" />
+    <state width="1173" height="211" key="GridCell.Tab.0.bottom" timestamp="1605366504940">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state width="1173" height="211" key="GridCell.Tab.0.bottom/0.0.1217.720@0.0.1217.720" timestamp="1605366504940" />
+    <state width="1173" height="211" key="GridCell.Tab.0.center" timestamp="1605366504940">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state width="1173" height="211" key="GridCell.Tab.0.center/0.0.1217.720@0.0.1217.720" timestamp="1605366504940" />
+    <state width="1173" height="211" key="GridCell.Tab.0.left" timestamp="1605366504939">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state width="1173" height="211" key="GridCell.Tab.0.left/0.0.1217.720@0.0.1217.720" timestamp="1605366504939" />
+    <state width="1173" height="211" key="GridCell.Tab.0.right" timestamp="1605366504940">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state width="1173" height="211" key="GridCell.Tab.0.right/0.0.1217.720@0.0.1217.720" timestamp="1605366504940" />
+    <state width="1173" height="199" key="GridCell.Tab.1.bottom" timestamp="1605365288714">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state width="1173" height="199" key="GridCell.Tab.1.bottom/0.0.1217.720@0.0.1217.720" timestamp="1605365288714" />
+    <state width="1173" height="199" key="GridCell.Tab.1.center" timestamp="1605365288714">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state width="1173" height="199" key="GridCell.Tab.1.center/0.0.1217.720@0.0.1217.720" timestamp="1605365288714" />
+    <state width="1173" height="199" key="GridCell.Tab.1.left" timestamp="1605365288714">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state width="1173" height="199" key="GridCell.Tab.1.left/0.0.1217.720@0.0.1217.720" timestamp="1605365288714" />
+    <state width="1173" height="199" key="GridCell.Tab.1.right" timestamp="1605365288714">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state width="1173" height="199" key="GridCell.Tab.1.right/0.0.1217.720@0.0.1217.720" timestamp="1605365288714" />
+    <state x="115" y="9" key="SettingsEditor" timestamp="1604154702331">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state x="115" y="9" key="SettingsEditor/0.0.1217.720@0.0.1217.720" timestamp="1604154702331" />
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603374764129" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controller/userController.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controller/PostController.go</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="*(*&quot;string&quot;)(824638071624)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
